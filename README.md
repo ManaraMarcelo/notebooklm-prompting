@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ManaraMarcelo/notebooklm-prompoting/blob/main/img.png" width="600">
+  <img src="https://github.com/ManaraMarcelo/notebooklm-prompting/blob/main/img.png" width="600">
 </p>
 
 
