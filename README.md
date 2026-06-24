@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/ManaraMarcelo/notebooklm-prompoting/blob/main/img.png" width="600">
+</p>
+
+
 # [EN] - DIO Challenge: Generative Artificial Intelligence on AWS
 
 Structured repository to demonstrate technical maturity, source curation, and prompt engineering applied to the GenAI ecosystem within Amazon Web Services (AWS). The main objective is to deepen knowledge in modern architectures requested by the job market.
